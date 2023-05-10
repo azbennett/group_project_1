@@ -21,6 +21,9 @@ Questions to Answer:
     Will population cause a distorted view of the data. e.g. Manhattan has far more population than Staten Island.
         Just because there are more people does not always mean there are more vehicles since not everyone drives in the inner city.
 
+    Compare if fatality accidents had multiple vehicles more often than single car accidents.
+
+
 
 Datasets to be used:
     https://catalog.data.gov/dataset/motor-vehicle-collisions-crashes
