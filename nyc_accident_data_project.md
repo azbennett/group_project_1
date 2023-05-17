@@ -1,11 +1,10 @@
 
 **#Project Title:**  
- - NYC Analysis of Accident Data  
+ - NYC Analysis of Accident Data - crash_data.ipynb
 
 **#Team Members:**  
  - Ginger Francione
  - Joan Montilla
- - Mohammad Satti
  - Steve Bennett
 
 **#Project Description/Outline:**  
@@ -42,3 +41,12 @@ Ginger
  - https://portal.311.nyc.gov/article/?kanumber=KA-02877  
     - List of all counties and their respective Borough name need to convert official county name into the commonly known names
 
+**#Additional files generated / used:**  
+ - Main data set from data.gov
+    - git\group_project_1\data\nyc_mv_crash_data_truncated4.csv
+
+ - Generated data:
+    - git\group_project_1\heatmaps\*.html
+        - Multiple generated heatmaps for all of NYC and each borough
+    - all_crashes.html - Point HVPLOT of all crashes in NYC
+    - fatal_crashes.html - Point HVPLOT of all fatal crashes in NYC
