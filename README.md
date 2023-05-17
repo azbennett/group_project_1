@@ -8,9 +8,13 @@
  - Steve Bennett
 
 **#Project Description/Outline:**  
- - Comparitive Analysis of accident data based over time, borough locations, or seasons.
- - Potential business to use this with is through Traffic Systems Inc - Areas of high risk may need further study
+ - Comparitive Analysis of accident data based over time, borough locations, number of vehicles, or seasons.
+ - Potential business to use this with is through Traffic Systems Inc (Local NYC business) - Areas of high risk may need further study
  - Department Of Transportation could also utitlize this data for safety awareness or trouble shooting dangerous intersections.
+
+**#Important Note:**    
+ - This is data from 2016 to 2021
+ - An accident is anything that is $1,000 in damage or more.
 
 **#Questions to Answer:**   
 Steve
