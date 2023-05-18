@@ -8,9 +8,9 @@
  - Steve Bennett
 
 **#Project Description/Outline:**  
- - Comparitive Analysis of accident data based over time, borough locations, number of vehicles, or seasons.
+ - Comparative  Analysis of accident data based over time, borough locations, number of vehicles, or seasons.
  - Potential business to use this with is through Traffic Systems Inc (Local NYC business) - Areas of high risk may need further study
- - Department Of Transportation could also utitlize this data for safety awareness or trouble shooting dangerous intersections.
+ - Department Of Transportation could also utilize  this data for safety awareness or trouble shooting dangerous intersections.
 
 **#Important Note:**    
  - This is data from 2016 to 2021
@@ -19,16 +19,16 @@
 **#Questions to Answer:**   
 Steve
  1 Can we use the data to map/visualize focus areas that are more likely to have major accidents?  
- - Does each borough or all of NYC have specific areas that are more likely to have major accidents?
+ - Did each borough or all of NYC have specific areas that are more likely to have major accidents?
 
  2 Has there been an increase in crashes over time?  Did COVID have any effect on the number of crashes?
 
- 3 During normal work commute times - is there a differnce in the number of crashes before or after a workday is completed?
+ 3 During normal work commute times - is there a difference in the number of crashes before or after a workday is completed?
 
 Joan
  1 Are specific NYC Boroughs more likely to have accidents than others? (Including checking for population normalization)
 
- 2 Is there a noticable trend with how many vehicles are involved in a crash? 
+ 2 Is there a noticeable trend with how many vehicles are involved in a crash? 
  - Compare if accidents had multiple vehicles more often than your normal 2 car accident. 
 
  3 Determine if accidents are more likely during certain months.
@@ -36,12 +36,12 @@ Joan
 Ginger
  1 Can we better visualize the number of crashes based on the time of day, month, or number of vehicles through scatter plots.
 
- 2 Can we use the time of day as a prediciton method for future crashes?
+ 2 Can we use the time of day as a prediction method for future crashes?
 
- 3 Does winter or summer have any effect on the number of accidents?
+ 3 Did winter or summer have any effect on the number of accidents?
 
 
-**#Datasets to be used:**  
+**#Datasets used:**  
 
  - [https://catalog.data.gov/dataset/motor-vehicle-collisions-crashes  ](https://catalog.data.gov/dataset/motor-vehicle-collisions-crashes)
  - Motor Vehicle Collisions - Crashes - 
