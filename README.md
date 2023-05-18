@@ -18,17 +18,27 @@
 
 **#Questions to Answer:**   
 Steve
- - Can the data visualize areas of concern?  Does each borough or all of NYC have specific areas that are more likely to have accidents?
- - During normal commute times - is there a differnce in number of crashes before or after a workday is completed?
+ 1 Can we use the data to map/visualize focus areas that are more likely to have major accidents?  
+ - Does each borough or all of NYC have specific areas that are more likely to have major accidents?
+
+ 2 Has there been an increase in crashes over time?  Did COVID have any effect on the number of crashes?
+
+ 3 During normal work commute times - is there a differnce in the number of crashes before or after a workday is completed?
 
 Joan
- - Are specific NYC Boroughs more likely to have accidents than others? (Including checking for population normalization)
- - Compare if fatality accidents had multiple vehicles more often than single car accidents. 
- - Determine if accidents are more likely during certain months.
+ 1 Are specific NYC Boroughs more likely to have accidents than others? (Including checking for population normalization)
+
+ 2 Is there a noticable trend with how many vehicles are involved in a crash? 
+ - Compare if accidents had multiple vehicles more often than your normal 2 car accident. 
+
+ 3 Determine if accidents are more likely during certain months.
 
 Ginger
- - Can we better visualize the number of crashes based on the time of day, month, or number of vehicles through scatter plots.
- - Does winter or summer have any effect on the number of accidents?
+ 1 Can we better visualize the number of crashes based on the time of day, month, or number of vehicles through scatter plots.
+
+ 2 Can we use the time of day as a prediciton method for future crashes?
+
+ 3 Does winter or summer have any effect on the number of accidents?
 
 
 **#Datasets to be used:**  
